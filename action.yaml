@@ -1,6 +1,6 @@
-name: 'Generate Tailwind CSS'
-description: 'Creates Tailwind CSS CSS Files'
-author: 'Zoey <zoey@z0ey.de>'
+name: 'Force (re)Generate Tailwind CSS'
+description: '(re)Creates (ignored) Tailwind CSS CSS Files (forked from Zoey)'
+author: ''
 branding:
   color: green
   icon: arrow-down-circle
